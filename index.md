@@ -1,31 +1,25 @@
-## Portfolio
+## Projects
 
 ---
 
-### Category Name 1 
+### Deep Learning for image classification and feature extraction
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[![Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google)](https://colab.research.google.com/drive/1SOUtZzZ9aKcgUGNeQAgkvJ4hTpdqMvGq?usp=sharing)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- Applying deep learning to extract features from images of the fashion-MNIST dataset.
+- Visualization of extracted features by using UMAP for dimensionality reduction.
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/fmnist_project.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### RNA Sequencing - Differential Gene Expression Analysis
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[![RNAseq](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aaeschbach/rnaseq_scripts)
 
----
+Applying computational tools of the differential expression analysis workflow on RNA sequencing data, with a dataset made available by [Singhania et al. (2019)](https://www.nature.com/articles/s41467-019-10601-6).
+
+<img src="images/rnaseq_project.png?raw=true"/>
 
 
 
