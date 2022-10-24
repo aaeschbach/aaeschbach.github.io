@@ -1,3 +1,3 @@
-See the projects I've been working on:
+See some projects I have worked on:
 
 [aaeschbach.github.io](aaeschbach.github.io)
