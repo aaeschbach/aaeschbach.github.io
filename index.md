@@ -2,6 +2,17 @@
 
 ---
 
+### Web Scraping with BeautifulSoup and Basic Data Analysis
+
+[![Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google)](https://colab.research.google.com/drive/1wJJ8FxYSjtPD8E_bokNqkWGPAyYcc7z_?usp=sharing)
+
+- Using BeautifulSoup to scrape german language recipes from the Bell website.
+- Basic data analysis and visualization.
+
+<img src="images/bell_scraping.png?raw=true"/>
+
+---
+
 ### Deep Learning for image classification and feature extraction
 
 [![Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google)](https://colab.research.google.com/drive/1SOUtZzZ9aKcgUGNeQAgkvJ4hTpdqMvGq?usp=sharing)
